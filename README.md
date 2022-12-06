@@ -1,8 +1,8 @@
 # Explore!!
 
-![preview](./.githubimg/01.png)
-![preview](./.githubimg/02.png)
-![preview](./.githubimg/03.png)
+![preview](/githubimg/01.png)
+![preview](/githubimg/02.png)
+![preview](/githubimg/03.png)
 
 Desafio do Stage 6.
 
